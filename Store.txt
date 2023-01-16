@@ -1,0 +1,11 @@
+Final Weights of Lat and Long for each Neuron after Convergence: 
+Africa: 			Lat: 0.13272		Long: 0.52076
+America: 			Lat: 0.617423		Long: -0.415447
+Antartica: 			Lat: 0.335211		Long: -0.100126
+Asia: 				Lat: 0.136042		Long: 0.362396
+Australia: 			Lat: -0.940542		Long: 0.317469
+Europe: 			Lat: 0.419454		Long: -0.151547
+Arctic: 			Lat: 0.3351		Long: -0.0043866
+Atlantic: 			Lat: 0.297102		Long: -0.261955
+Indian: 			Lat: -0.1397		Long: 0.584519
+Pacific: 			Lat: 0.247191		Long: 0.0358851
